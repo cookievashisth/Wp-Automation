@@ -1,0 +1,6 @@
+logs/
+reports/
+whatsapp_automation/wa_session/
+whatsapp_automation/__pycache__/
+*.pyc
+.venv/
